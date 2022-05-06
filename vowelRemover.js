@@ -18,4 +18,4 @@ function shortcut (string) {
 
   // here's an arrow function:
 
-  let shortcut = str => str.replace(/[aeiou]/g, '')
+  let shortcut = str => str.replace(/[aeiou]/g, '')  
