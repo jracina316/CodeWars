@@ -13,4 +13,4 @@ function oddCount(n){
 
   //Still need more practive creating arrow functions:
 
-  const oddCount = n => Math.floor(n/2) ;
+  const oddCount = n => Math.floor(n/2) 
