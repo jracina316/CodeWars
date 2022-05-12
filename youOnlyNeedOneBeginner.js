@@ -17,4 +17,9 @@ function check(a, x) {
 
   const check = (a,x) => a.includes(x);
 
+
+  function check(a,x){
+    return a.includes(x);
+  };
+
   //I was proud until I saw the other answers.  LOL.  Now I know .includes is a method you can call on an parameter or variable. 
