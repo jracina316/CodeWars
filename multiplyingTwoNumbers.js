@@ -6,4 +6,4 @@ function multiply(a, b) {
   }
 
 
-  
+//Other popular answers were the same
