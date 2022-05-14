@@ -11,10 +11,10 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 
   //Different math, same result:
 
-  const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
+const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
     return distanceToPump/mpg <= fuelLeft
   };
 
 // Arrow functions I need to learn how to do better:
 
-  const zeroFuel = (distanceToPump, mpg, fuelLeft) => mpg * fuelLeft >= distanceToPump;
+const zeroFuel = (distanceToPump, mpg, fuelLeft) => mpg * fuelLeft >= distanceToPump;
