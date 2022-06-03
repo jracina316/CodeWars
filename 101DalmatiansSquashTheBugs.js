@@ -30,3 +30,5 @@ function howManyDalmatians(number) {
       return "Woah that's a lot of dogs!" 
     }
   }
+
+  //This solution makes the code longer but a little easier to read IMO
