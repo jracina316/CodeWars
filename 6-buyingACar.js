@@ -51,3 +51,5 @@ function nbMonths(startPriceOld, startPriceNew, savingperMonth, percentLossByMon
     }
     return [months, Math.round(startPriceOld + moneySaved - startPriceNew)];
   }
+
+  //I'm testing to see if I can push this to GitHub.  
