@@ -16,4 +16,4 @@ function nearestSq(n){
     return Math.round(n**0.5)**2
 }
 
-// I remembered a couple of these math functions without looking them up
+// I remembered a couple of these math functions without looking them up.
